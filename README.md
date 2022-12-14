@@ -1,0 +1,14 @@
+# xperience_davinci-user 13 TKQ1.221114.001 eng.klozz.20221213.183227 release-keys
+- manufacturer: xiaomi
+- platform: sm6150
+- codename: davinci
+- flavor: xperience_davinci-user
+- release: 13
+- id: TKQ1.221114.001
+- incremental: eng.klozz.20221213.183227
+- tags: release-keys
+- fingerprint: Xiaomi/xperience_davinci/davinci:13/TKQ1.221114.001/klozz12131832:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: xperience_davinci-user-13-TKQ1.221114.001-eng.klozz.20221213.183227-release-keys
+- repo: xiaomi_davinci_dump
